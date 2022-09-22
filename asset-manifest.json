@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/noxe-react-app/static/css/main.697368de.css",
-    "main.js": "/noxe-react-app/static/js/main.a385a2c6.js",
+    "main.js": "/noxe-react-app/static/js/main.6eac0744.js",
     "static/media/fa-solid-900.ttf": "/noxe-react-app/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
     "static/media/fa-brands-400.ttf": "/noxe-react-app/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
     "static/media/fa-solid-900.woff2": "/noxe-react-app/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
@@ -12,10 +12,10 @@
     "static/media/fa-v4compatibility.woff2": "/noxe-react-app/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
     "index.html": "/noxe-react-app/index.html",
     "main.697368de.css.map": "/noxe-react-app/static/css/main.697368de.css.map",
-    "main.a385a2c6.js.map": "/noxe-react-app/static/js/main.a385a2c6.js.map"
+    "main.6eac0744.js.map": "/noxe-react-app/static/js/main.6eac0744.js.map"
   },
   "entrypoints": [
     "static/css/main.697368de.css",
-    "static/js/main.a385a2c6.js"
+    "static/js/main.6eac0744.js"
   ]
 }
